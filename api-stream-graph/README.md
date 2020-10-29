@@ -2,8 +2,8 @@
 1. Get source, install deps, and run demo server.
 
    ```sh
-   git clone git@github.com:Netflix/vizceral-example.git
-   cd vizceral-example
+   git clone https://github.com/khanasif1/netflix-traffic-view.git
+   cd netflix-traffic-view
    npm install
    npm run dev
    ```
@@ -14,10 +14,10 @@
 If you don't have a node environment setup or would like to run this example on a platform, there is a Dockerfile for experimental usage.
 
 ```
-$ docker build -t <name>/vizceral-example .
+$ docker build -t <name>/netflix-traffic-view .
 ```
 ```
-$ docker run -p 41911:8080 -d <name>/vizceral-example
+$ docker run -p 41911:8080 -d <name>/netflix-traffic-view
 ```
 
 Then you should be able to navigate to http://localhost:41911
