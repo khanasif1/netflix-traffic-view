@@ -1,5 +1,6 @@
 # Netflix Traffic View
-
+<img src="https://github.com/khanasif1/netflix-traffic-view/blob/main/images/Regional.PNG" />
+<img src="https://github.com/khanasif1/netflix-traffic-view/blob/main/images/services.PNG" />
 # Setup
 1. Get source, install deps, and run demo server.
 
