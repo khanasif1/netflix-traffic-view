@@ -24,3 +24,4 @@ $ docker run -p 41911:8080 -d <name>/netflix-traffic-view
 ```
 
 Then you should be able to navigate to http://localhost:41911
+ 
